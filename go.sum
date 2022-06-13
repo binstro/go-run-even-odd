@@ -1,0 +1,4 @@
+github.com/binstro/go_even_odd v1.0.0 h1:dtMzZmxnvupc8DA60ooYGCesJKj3cYEbPqLzXbIzeSc=
+github.com/binstro/go_even_odd v1.0.0/go.mod h1:kaJmOMScmdOtgaoXcwTcwEfI38jcT+hmZkB5rm5P40k=
+github.com/binstro/go_even_odd/v2 v2.0.0 h1:g9qf/s/FX6d7M3PbW+B+jRd0HaOvZHKU1eD8DhdSz4w=
+github.com/binstro/go_even_odd/v2 v2.0.0/go.mod h1:oTqmxNEZUUlqdzBJftFhD/lAkkoJ2ri2k7lyPSEPeyw=
